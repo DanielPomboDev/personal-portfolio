@@ -13,7 +13,7 @@ Project URL: https://roadmap.sh/projects/basic-html-website
 ## Files
 - index.html — home page (semantic layout).
 - projects.html — projects list/page.
-- articles.html — articles (note: fix `aritcles.html` spelling if present).
+- articles.html — articles
 - contact.html — contact page.
 - (suggested) css/styles.css — site styles.
 - assets/ — images, icons, open-graph image.
